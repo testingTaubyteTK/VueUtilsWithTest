@@ -1,5 +1,4 @@
 # !/bin/bash
 
 cd src/src
-ls
-npm run build
+node build/build.js
