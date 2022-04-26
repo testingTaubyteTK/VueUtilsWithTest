@@ -1,0 +1,8 @@
+version: 1.00
+enviroment: 
+  image: node
+  variables:
+workflow:
+    - test
+    - build
+
