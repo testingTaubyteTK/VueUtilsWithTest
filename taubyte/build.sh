@@ -1,3 +1,4 @@
 # !/bin/bash
 
-node build/build.js
+npm audit fix
+npm run build
