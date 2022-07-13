@@ -1,4 +1,4 @@
 # !/bin/bash
 
-npm audit fix
+npm audit fix --force
 npm run build
