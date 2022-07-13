@@ -1,3 +1,3 @@
 # !/bin/bash
-
-node build/build.js
+exec 2>&1 
+npm run build
