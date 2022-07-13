@@ -1,4 +1,3 @@
 # !/bin/bash
 
-npm audit fix --force
-npm run build &2>1
+node build/build.js
