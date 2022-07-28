@@ -3,6 +3,5 @@ enviroment:
   image: taftaf/builder-go:test2
   variables:
 workflow:
-    - test
     - build
 
